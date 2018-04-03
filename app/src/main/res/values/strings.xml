@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppointmentManager</string>
+    <string name="Title">Appointment</string>
+    <string name="createAppointment">Create Appointment</string>
+    <string name="viewEdit">View/Edit Appointments</string>
+    <string name="deleteAppointment">Delete Appointment</string>
+    <string name="moveAppointment">Move Appointment</string>
+    <string name="search">Search</string>
+
+
+    <string name="save">Save</string>
+    <string name="createPageTitle">CREATE APPOINTMENT</string>
+    <string name="titleTextView">The title of the appointment</string>
+    <string name="timeTextView">The time of the appointment</string>
+    <string name="detailsTextView">The details of the appointment</string>
+    <string name="titleHint">Enter the title</string>
+    <string name="timeHint">Enter the time</string>
+    <string name="detailsHint">Description</string>
+    <string name="thesaurus">Thesaurus</string>
+    <string name="thesaurusSub2">Highlight a word from the details section and press \"THESAURUS\" button to see the related synonyms</string>
+
+    <string name="changeAppointmentHeading">CHANGE APPOINTMENT</string>
+    <string name="searchAppointmentHelp">Please enter a keyword and press the "SEARCH" button to search relevant appointments</string>
+    <string name="searchAppointmentHint">Enter a keyword here</string>
+</resources>
